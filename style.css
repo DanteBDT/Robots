@@ -1,0 +1,23 @@
+div{
+  border:10px solid black;
+  padding:100px;
+  margin:20px;
+  background-color:aliceblue;
+}
+img{
+  border-radius:70px;
+}
+h1{
+ text-align: center;
+}
+h3{
+   font-family: "Segoe UI";
+}
+p{
+   font-family: "Homer Simpson UI";
+}
+  
+body{
+  background-color:darkgoldenrod;
+}
+  
